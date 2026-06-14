@@ -1,0 +1,7 @@
+{
+  "outputDirectory": ".",
+  "routes": [
+    { "src": "/", "dest": "/explorer.html" },
+    { "src": "/(.*)", "dest": "/$1" }
+  ]
+}

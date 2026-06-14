@@ -1,5 +1,7 @@
 # Infinite Monkeys Girona Map Sequencer
 
+**Live:** https://22699294.vercel.app
+
 An interactive map sequencer for exploring CORINE habitat data around Girona. Click polygons and points on the map to trigger OSC messages to any OSC-capable software (SuperCollider, Max/MSP, Pure Data, etc.).
 
 ## Requirements
